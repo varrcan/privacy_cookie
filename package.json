@@ -1,0 +1,21 @@
+{
+  "name": "privacy_cookie",
+  "version": "1.0.0",
+  "description": "Notice about use of cookies",
+  "main": "privacy_cookie.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varrcan/privacy_cookie.git"
+  },
+  "author": "Sergey Voloshin <git@varrcan.me> (varrcan.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Varrcan/privacy_cookie/issues"
+  },
+  "homepage": "https://github.com/Varrcan/privacy_cookie#readme"
+}
