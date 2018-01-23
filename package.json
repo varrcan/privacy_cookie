@@ -1,6 +1,6 @@
 {
   "name": "privacy_cookie",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Notice about use of cookies",
   "main": "privacy_cookie.js",
   "dependencies": {},
