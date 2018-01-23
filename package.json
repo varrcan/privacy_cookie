@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Varrcan/privacy_cookie.git"
   },
-  "author": "Sergey Voloshin <git@varrcan.me> (varrcan.me)",
+  "author": "Sergey Voloshin <git@varrcan.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Varrcan/privacy_cookie/issues"
