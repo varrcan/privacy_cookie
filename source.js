@@ -53,7 +53,7 @@
 				transition: background-color 0.3s ease;
 				position: absolute;
 				background: none;
-				top: 5px;
+				top: 15px;
 				right: 15px;
 				display: block;
 				border: none;
