@@ -14,12 +14,13 @@ npm install privacy_cookie --save-dev
 
 ## Использование
 
-1. Подключить скрипт в секции `<head>`, например:
+1\. Подключить скрипт в секции `<head>`, например:
 ```
 <script src="/node_modules/privacy_cookie/dist/privacy_cookie.js"></script>
 ```
+2\. Вызвать функцию `createCookieMarkup(link);`
 
-2. Вызвать функцию `createCookieMarkup(link);`, где `link` - ссылка на страницу Политики конфинденциальности
+где `link` - ссылка на страницу Политики конфинденциальности
 
 через window.onload:
 ```
