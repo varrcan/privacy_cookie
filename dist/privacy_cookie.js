@@ -1,7 +1,7 @@
 'use strict';
 
 ;{
-	var closeEvent = function closeEvent() {
+	var bindCloseEvent = function bindCloseEvent() {
 		var button = document.getElementById('cookie_close');
 		button.onclick = function () {
 			var panel = document.getElementById('cookie');
@@ -21,7 +21,7 @@
 			document.head.appendChild(style);
 			document.body.appendChild(element);
 
-			closeEvent();
+			bindCloseEvent();
 		}
 	};
 

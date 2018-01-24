@@ -82,7 +82,7 @@
 				transform: rotate(45deg);
 			}`;
 
-	function closeEvent() {
+	function bindCloseEvent() {
 		let button = document.getElementById('cookie_close');
 		button.onclick = function () {
 			let panel = document.getElementById('cookie');
@@ -102,7 +102,7 @@
 			document.head.appendChild(style);
 			document.body.appendChild(element);
 
-			closeEvent();
+			bindCloseEvent();
 		}
 	}
 }
