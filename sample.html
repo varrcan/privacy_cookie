@@ -34,10 +34,10 @@
 		}
 	</style>
 
-	<script src="dist/privacy_cookie.js"></script>
+	<script defer src="dist/privacy_cookie.js"></script>
 	<script>
-		window.onload = function () {
-			createCookieMarkup('/link-to-privacy/');
+		var cookiePanel = {
+			link: '/link-to-privacy/'
 		};
 	</script>
 </head>
