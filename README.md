@@ -9,7 +9,7 @@
 ## Установка
 
 ```
-npm install privacy_cookie --save-dev
+npm install privacy_cookie --save
 ```
 
 ## Использование
