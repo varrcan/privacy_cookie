@@ -7,12 +7,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Varrcan/privacy_cookie.git"
+    "url": "git+https://github.com/webpractik/privacy_cookie.git"
   },
   "author": "Sergey Voloshin <git@varrcan.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Varrcan/privacy_cookie/issues"
+    "url": "https://github.com/webpractik/privacy_cookie/issues"
   },
-  "homepage": "https://github.com/Varrcan/privacy_cookie#readme"
+  "homepage": "https://github.com/webpractik/privacy_cookie#readme"
 }
