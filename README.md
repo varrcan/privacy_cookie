@@ -8,19 +8,19 @@
 
 ## Установка
 
-```
+```bash
 npm install privacy_cookie --save
 ```
 
 ## Использование
 
 1\. Подключить скрипт в секции `<head>`:
-```
+```html
 <script defer src="/node_modules/privacy_cookie/dist/privacy_cookie.js"></script>
 ```
 2\. Создать объект `cookiePanel`, с параметром `link`:
 
-```
+```html
 <script>
 	var cookiePanel = {link: '/link-to-privacy/'};
 </script>
